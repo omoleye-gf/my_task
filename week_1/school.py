@@ -1,0 +1,5 @@
+school_name =("tell us the name of your school")
+Tuition_fee = float("tell us the amount of your tuition fee")
+Hostel_fee =float(" tell us your hostel fee")
+Feeding_fee = float("tell us your feeding fee")
+print =("school_name\n Tuition_fee\n Hostel_fee\nFeeding_fee\n")
